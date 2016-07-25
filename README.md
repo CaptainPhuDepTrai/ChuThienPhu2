@@ -1,2 +1,1 @@
-# ChuThienPhu2
-tphu i love you 
+#huong dan Git co ban 
